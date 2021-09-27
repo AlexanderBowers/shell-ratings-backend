@@ -1,0 +1,2 @@
+class ShellsController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class Shell < ApplicationRecord
+end
